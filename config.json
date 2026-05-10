@@ -58,6 +58,13 @@
           "type": "csv"
         }
       ]
+    },
+    {
+      "id": "fastapi-rest-api",
+      "title": "Building REST APIs with FastAPI",
+      "description": "Learn to build complete REST APIs using FastAPI, including CRUD operations, request validation, and error handling.",
+      "path": "assignments/fastapi-rest-api",
+      "dueDate": "2026-05-17"
     }
   ]
 }
