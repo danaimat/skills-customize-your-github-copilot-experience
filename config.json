@@ -65,6 +65,20 @@
       "description": "Learn to build complete REST APIs using FastAPI, including CRUD operations, request validation, and error handling.",
       "path": "assignments/fastapi-rest-api",
       "dueDate": "2026-05-17"
+    },
+    {
+      "id": "introduction-to-algorithms-in-python",
+      "title": "Introduction to Algorithms in Python",
+      "description": "Learn to implement and analyze basic algorithms like sorting and searching in Python.",
+      "path": "assignments/introduction-to-algorithms-in-python",
+      "dueDate": "2026-05-17",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
